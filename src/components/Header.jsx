@@ -1,10 +1,12 @@
 import { Link, useLocation } from 'react-router-dom'
 import { useLang, LANGUAGES } from '../LanguageContext'
+import { useTheme } from '../ThemeContext'
 import { t } from '../i18n'
 
 export default function Header() {
   const location = useLocation()
   const { lang, setLang } = useLang()
+  const { dark, toggle } = useTheme()
 
   const links = [
     { to: '/', label: t('nav.home', lang) },
@@ -27,6 +29,9 @@ export default function Header() {
               {link.label}
             </Link>
           ))}
+          <button className="theme-toggle" onClick={toggle} aria-label="Toggle dark mode">
+            {dark ? '☀️' : '🌙'}
+          </button>
           <select
             className="lang-select"
             value={lang}
