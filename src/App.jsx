@@ -1,31 +1,25 @@
-import { Routes, Route } from 'react-router-dom'
-import { LanguageProvider } from './LanguageContext'
-import Header from './components/Header'
-import Footer from './components/Footer'
-import Home from './pages/Home'
-import About from './pages/About'
-import Works from './pages/Works'
-import WorkDetail from './pages/WorkDetail'
-import Blog from './pages/Blog'
+import { createContext, useContext, useState, useEffect } from 'react'
 
-function App() {
+const ThemeContext = createContext()
+
+export function ThemeProvider({ children }) {
+  const [dark, setDark] = useState(() => {
+    const saved = localStorage.getItem('blog_theme')
+    return saved === 'dark'
+  })
+
+  useEffect(() => {
+    document.documentElement.classList.toggle('dark', dark)
+    localStorage.setItem('blog_theme', dark ? 'dark' : 'light')
+  }, [dark])
+
   return (
-    <LanguageProvider>
-      <div className="app">
-        <Header />
-        <main className="main-content">
-          <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/about" element={<About />} />
-            <Route path="/works" element={<Works />} />
-            <Route path="/works/:id" element={<WorkDetail />} />
-            <Route path="/blog" element={<Blog />} />
-          </Routes>
-        </main>
-        <Footer />
-      </div>
-    </LanguageProvider>
+     setDark(d => !d) }}>
+      {children}
+    
   )
 }
 
-export default App
+export function useTheme() {
+  return useContext(ThemeContext)
+}
