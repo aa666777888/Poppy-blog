@@ -13,7 +13,7 @@ export default function Works() {
         <p>{t('works.desc', lang)}</p>
       </div>
 
-      {works.length > 0 ? (
+      {works.length > 0 && (
         <div className="works-grid works-grid-full">
           {works.map(work => (
             <Link to={`/works/${work.id}`} key={work.id} className="work-card">
@@ -32,8 +32,6 @@ export default function Works() {
             </Link>
           ))}
         </div>
-      ) : (
-        <p className="empty-hint">{t('works.noWorks', lang)}</p>
       )}
     </div>
   )
