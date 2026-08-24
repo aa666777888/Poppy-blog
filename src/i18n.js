@@ -8,7 +8,6 @@ const en = {
   },
   works: {
     title: 'Portfolio', desc: 'Stories I have written',
-    noWorks: 'No works yet. Add them in data/works.js ✍️',
     back: '← Back to Portfolio', notFound: 'Work not found',
   },
   blog: {
@@ -32,7 +31,6 @@ const zh = {
   },
   works: {
     title: '作品集', desc: '我写过的故事',
-    noWorks: '还没有作品，在 data/works.js 中添加吧 ✍️',
     back: '← 返回作品集', notFound: '作品不存在',
   },
   blog: {
@@ -56,7 +54,6 @@ const ja = {
   },
   works: {
     title: '作品集', desc: '私が書いた物語',
-    noWorks: 'まだ作品がありません。data/works.js に追加してください ✍️',
     back: '← 作品集に戻る', notFound: '作品が見つかりません',
   },
   blog: {
@@ -80,7 +77,6 @@ const es = {
   },
   works: {
     title: 'Portafolio', desc: 'Historias que he escrito',
-    noWorks: 'Sin obras aún. Añádelas en data/works.js ✍️',
     back: '← Volver al Portafolio', notFound: 'Obra no encontrada',
   },
   blog: {
@@ -104,7 +100,6 @@ const fr = {
   },
   works: {
     title: 'Portfolio', desc: 'Histoires que j\'ai écrites',
-    noWorks: 'Pas encore d\'œuvres. Ajoutez-les dans data/works.js ✍️',
     back: '← Retour au Portfolio', notFound: 'Œuvre introuvable',
   },
   blog: {
@@ -128,7 +123,6 @@ const pt = {
   },
   works: {
     title: 'Portfólio', desc: 'Histórias que escrevi',
-    noWorks: 'Nenhuma obra ainda. Adicione em data/works.js ✍️',
     back: '← Voltar ao Portfólio', notFound: 'Obra não encontrada',
   },
   blog: {
@@ -152,7 +146,6 @@ const hi = {
   },
   works: {
     title: 'पोर्टफोलियो', desc: 'मेरी लिखी कहानियाँ',
-    noWorks: 'अभी तक कोई रचना नहीं। data/works.js में जोड़ें ✍️',
     back: '← पोर्टफोलियो पर वापस', notFound: 'रचना नहीं मिली',
   },
   blog: {
