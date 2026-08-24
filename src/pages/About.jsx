@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import { useLang } from '../LanguageContext'
 import { t } from '../i18n'
 import profile from '../data/profile'
@@ -7,6 +8,14 @@ export default function About() {
   const { lang } = useLang()
   const totalWorks = works.length
   const totalWords = works.reduce((sum, w) => sum + (w.content?.length || 0), 0)
+  const [copied, setCopied] = useState(false)
+  const isZh = lang === 'zh'
+
+  function copyEmail() {
+    navigator.clipboard.writeText(profile.social.email)
+    setCopied(true)
+    setTimeout(() => setCopied(false), 2000)
+  }
 
   return (
     <div className="page about-page">
@@ -50,9 +59,9 @@ export default function About() {
         <section className="about-section">
           <h2>{t('about.contact', lang)}</h2>
           <div className="contact-links">
-            <a href={`mailto:${profile.social.email}`} className="contact-link">📧 {profile.social.email}</a>
-            {profile.social.github && <a href={profile.social.github} target="_blank" rel="noopener noreferrer" className="contact-link">🐙 GitHub</a>}
-            {profile.social.twitter && <a href={profile.social.twitter} target="_blank" rel="noopener noreferrer" className="contact-link">🐦 Twitter</a>}
+            <button className="contact-link email-btn" onClick={copyEmail}>
+              📧 {profile.social.email} {copied && <span className="copied-hint">{isZh ? '已复制' : 'Copied!'}</span>}
+            </button>
           </div>
         </section>
       </div>
