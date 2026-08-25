@@ -9,7 +9,23 @@ const works = [
     type: 'Novel',
     status: 'Ongoing',
     cover: 'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iODAwIj48cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjgwMCIgZmlsbD0iIzlDQTNBRiIvPjwvc3ZnPg==',
-    description: 'Harry Potter keeps noticing the bruises hidden under Draco Malfoy’s sleeves — and can’t stop himself from trying to help, even if it means pretending to be a girl with a crush.',
+    description: `Friday afternoon, in the dungeon, Harry Potter stared blankly at his cauldron.
+
+Not because the potion was too difficult, nor because Snape was picking on him again—but because he'd accidentally caught sight of the bruise on Draco Malfoy's wrist.
+
+Those purple-black marks, hidden beneath the sleeve of his school robe, fresh and shocking—exactly like the ones he'd seen on himself in the mirror as a child.
+
+From that day on, the Chosen One was like a different person.
+
+Zoning out and bringing his cup to his mouth, staring at the ceiling late at night, taking three full seconds to react even when Ron asked him a question—and the most insane part was, he'd actually snuck off to the hospital wing for Dittany, tucked it into a pale purple pouch, drew a crooked little heart on it, pretended to be some girl with a crush on Malfoy, and stuffed it into the Slytherin locker room cabinet.
+
+When Ron found out the truth, he was absolutely horrified: "Are you sick in the head, Harry? That's Malfoy! Draco Malfoy!"
+
+Harry himself couldn't explain why he had to meddle in his archenemy's business.
+
+All he remembered were those bruises, the way Draco tried so hard to act composed, the way that pale purple pouch was received—and the soft intake of breath from the next locker over when it was taken—
+
+And then he realized, he was kind of… weirdly happy, and he couldn't seem to stop.`,
     date: '2026-08-25',
     content: `Chapter 1: Friday Afternoon, Deep in the Dungeons
 
