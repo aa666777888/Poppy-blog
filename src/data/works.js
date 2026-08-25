@@ -8,7 +8,7 @@ const works = [
     title: 'Savior Complex',
     type: 'Novel',
     status: 'Ongoing',
-    cover: 'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iODAwIj48cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjgwMCIgZmlsbD0iIzZCNzI4MCIvPjwvc3ZnPg==',
+    cover: 'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iODAwIj48cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjgwMCIgZmlsbD0iIzlDQTNBRiIvPjwvc3ZnPg==',
     description: 'Harry Potter keeps noticing the bruises hidden under Draco Malfoy’s sleeves — and can’t stop himself from trying to help, even if it means pretending to be a girl with a crush.',
     date: '2026-08-25',
     content: `Chapter 1: Friday Afternoon, Deep in the Dungeons
