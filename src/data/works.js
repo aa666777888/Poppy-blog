@@ -2,18 +2,18 @@
 // 📚 作品集 — 在这里添加你的作品
 // ==========================================
 
-const cover = 'https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Hogwarts%20dungeon%20with%20floating%20candles%2C%20parchment%20quill%20and%20a%20small%20hand%20drawn%20heart%2C%20moody%20purple%20and%20silver%20tones%2C%20dark%20academia%2C%20no%20text&image_size=portrait_4_3'
-
 const works = [
   {
     id: 1,
-    title: 'Chapter 1',
+    title: 'Savior Complex',
     type: '小说',
     status: '连载中',
-    cover,
-    description: 'Friday afternoon, deep in the dungeons — in Potions class, Harry keeps noticing the bruises hidden under Draco Malfoy’s sleeves.',
+    cover: 'https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Hogwarts%20dungeon%20with%20floating%20candles%2C%20parchment%20quill%20and%20a%20small%20hand%20drawn%20heart%2C%20moody%20purple%20and%20silver%20tones%2C%20dark%20academia%2C%20no%20text&image_size=portrait_4_3',
+    description: 'Harry Potter keeps noticing the bruises hidden under Draco Malfoy’s sleeves — and can’t stop himself from trying to help, even if it means pretending to be a girl with a crush.',
     date: '2026-08-25',
-    content: `The Potions class was dragging on through the muggy, stagnant air.
+    content: `Chapter 1: Friday Afternoon, Deep in the Dungeons
+
+The Potions class was dragging on through the muggy, stagnant air.
 
 Normally, every student would have their eyes fixed on their cauldron—steady flame, clockwise stirring, ingredient additions timed to the exact second. Professor Snape’s robe, like a dark cloud, patrolled silently between the aisles.
 
@@ -208,17 +208,11 @@ Harry looked down at his now-cold mashed potatoes.
 
 “Nothing.”
 
-Ron looked up from a chicken leg, glanced at him suspiciously, but ultimately said nothing.`
-  },
-  {
-    id: 2,
-    title: 'Chapter 2: The Signature Is Just a Heart',
-    type: '小说',
-    status: '连载中',
-    cover,
-    description: 'Unable to sleep, Harry decides to help — by masquerading as a girl with a crush, leaving dittany in Draco’s locker.',
-    date: '2026-08-25',
-    content: `That night was not easy.
+Ron looked up from a chicken leg, glanced at him suspiciously, but ultimately said nothing.
+
+Chapter 2: The Signature Is Just a Heart
+
+That night was not easy.
 
 Or rather — ever since that day in the corridor when he caught a glimpse of the bruises on Draco, no night had been easy.
 
@@ -494,17 +488,11 @@ Just: I saw the marks on you. This is dittany. It helps with bruises. Hope you f
 
 No signature.
 
-Just a heart.`
-  },
-  {
-    id: 3,
-    title: 'Chapter 3: Are You Mental, Harry?',
-    type: '小说',
-    status: '连载中',
-    cover,
-    description: 'Harry smuggles the jar into Draco’s Quidditch locker — and Ron discovers exactly what he’s done.',
-    date: '2026-08-25',
-    content: `Harry sat in the corner of the library for an entire afternoon.
+Just a heart.
+
+Chapter 3: Are You Mental, Harry?
+
+Harry sat in the corner of the library for an entire afternoon.
 
 The parchment in front of him was covered in scribbles — he wrote, tore it up, wrote again, and finally the crumpled balls of paper around his chair had piled up like a small hill.
 
@@ -738,17 +726,11 @@ He lay there, staring at the canopy above his bed, a smile still lingering on hi
 
 Maybe Ron was right. Maybe he was going mad.
 
-But at least the pale purple bag hadn't ended up in the bin.`
-  },
-  {
-    id: 4,
-    title: 'Chapter 4: Jealousy',
-    type: '小说',
-    status: '连载中',
-    cover,
-    description: 'Draco’s bruises look worse, so Harry confronts him — only to realise the mystery “girl” he invented is making him jealous of himself.',
-    date: '2026-08-25',
-    content: `The next morning, Harry opened his eyes feeling refreshed and clear-headed.
+But at least the pale purple bag hadn't ended up in the bin.
+
+Chapter 4: Jealousy
+
+The next morning, Harry opened his eyes feeling refreshed and clear-headed.
 
 Sunlight streamed through the gaps in the curtains, warm and cozy. He stretched lazily, feeling that this night's sleep had been especially solid—much better than those restless, tossing-and-turning nights from a few days ago.
 
