@@ -12,8 +12,7 @@ const en = {
   },
   blog: {
     title: 'Blog', desc: 'Life & thoughts',
-    noPosts: 'No posts yet. Add them in data/posts.js ✍️',
-  },
+    },
   about: {
     title: 'About Me', skills: 'Skills & Interests', stats: 'Statistics',
     works: 'Works', totalWords: 'Total Words', contact: 'Contact',
@@ -35,8 +34,7 @@ const zh = {
   },
   blog: {
     title: '博客', desc: '记录生活与思考',
-    noPosts: '还没有文章，在 data/posts.js 中添加吧 ✍️',
-  },
+    },
   about: {
     title: '关于我', skills: '技能与爱好', stats: '统计',
     works: '作品', totalWords: '总字数', contact: '联系我',
@@ -58,8 +56,7 @@ const ja = {
   },
   blog: {
     title: 'ブログ', desc: '生活と思索',
-    noPosts: 'まだ記事がありません。data/posts.js に追加してください ✍️',
-  },
+    },
   about: {
     title: '私について', skills: 'スキルと趣味', stats: '統計',
     works: '作品', totalWords: '総文字数', contact: 'お問い合わせ',
@@ -81,8 +78,7 @@ const es = {
   },
   blog: {
     title: 'Blog', desc: 'Vida y pensamientos',
-    noPosts: 'Sin artículos aún. Añádelos en data/posts.js ✍️',
-  },
+    },
   about: {
     title: 'Sobre Mí', skills: 'Habilidades e Intereses', stats: 'Estadísticas',
     works: 'Obras', totalWords: 'Palabras totales', contact: 'Contacto',
@@ -104,8 +100,7 @@ const fr = {
   },
   blog: {
     title: 'Blog', desc: 'Vie et réflexions',
-    noPosts: 'Pas encore d\'articles. Ajoutez-les dans data/posts.js ✍️',
-  },
+    },
   about: {
     title: 'À Propos', skills: 'Compétences et Centres d\'intérêt', stats: 'Statistiques',
     works: 'Œuvres', totalWords: 'Mots totaux', contact: 'Contact',
@@ -127,8 +122,7 @@ const pt = {
   },
   blog: {
     title: 'Blog', desc: 'Vida e pensamentos',
-    noPosts: 'Nenhum post ainda. Adicione em data/posts.js ✍️',
-  },
+    },
   about: {
     title: 'Sobre Mim', skills: 'Habilidades e Interesses', stats: 'Estatísticas',
     works: 'Obras', totalWords: 'Total de palavras', contact: 'Contato',
@@ -150,8 +144,7 @@ const hi = {
   },
   blog: {
     title: 'ब्लॉग', desc: 'जीवन और विचार',
-    noPosts: 'अभी तक कोई पोस्ट नहीं। data/posts.js में जोड़ें ✍️',
-  },
+    },
   about: {
     title: 'मेरे बारे में', skills: 'कौशल और रुचियाँ', stats: 'आँकड़े',
     works: 'रचनाएँ', totalWords: 'कुल शब्द', contact: 'संपर्क',
