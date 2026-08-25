@@ -6,9 +6,9 @@ const works = [
   {
     id: 1,
     title: 'Savior Complex',
-    type: '小说',
+    type: 'Novel',
     status: '连载中',
-    cover: 'https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Hogwarts%20dungeon%20with%20floating%20candles%2C%20parchment%20quill%20and%20a%20small%20hand%20drawn%20heart%2C%20moody%20purple%20and%20silver%20tones%2C%20dark%20academia%2C%20no%20text&image_size=portrait_4_3',
+    cover: 'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iODAwIj48cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjgwMCIgZmlsbD0iIzNCMUU1RSIvPjwvc3ZnPg==',
     description: 'Harry Potter keeps noticing the bruises hidden under Draco Malfoy’s sleeves — and can’t stop himself from trying to help, even if it means pretending to be a girl with a crush.',
     date: '2026-08-25',
     content: `Chapter 1: Friday Afternoon, Deep in the Dungeons
