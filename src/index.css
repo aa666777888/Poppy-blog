@@ -332,6 +332,8 @@ img { max-width: 100%; display: block; }
 .work-detail-title { font-size: 1.5rem; font-weight: 800; margin: 6px 0 10px; }
 
 .work-detail-desc { color: var(--text-secondary); font-size: 0.95rem; margin: 12px 0; line-height: 1.7; }
+.work-detail-desc p { margin: 0 0 0.7em; }
+.work-detail-desc p:last-child { margin-bottom: 0; }
 .work-detail-date { font-size: 0.85rem; color: var(--text-muted); }
 
 .work-detail-content {
