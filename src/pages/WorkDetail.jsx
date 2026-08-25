@@ -38,9 +38,12 @@ export default function WorkDetail() {
 
       {work.content && (
         <article className="work-detail-content">
-          {work.content.split('\n\n').map((para, i) => (
-            <p key={i}>{para}</p>
-          ))}
+          {work.content.split('\n\n').map((para, i) => {
+            if (/^Chapter\b/i.test(para)) {
+              return <h2 key={i} className="work-chapter-title">{para}</h2>
+            }
+            return <p key={i}>{para}</p>
+          })}
         </article>
       )}
     </div>
