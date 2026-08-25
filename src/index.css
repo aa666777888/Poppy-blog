@@ -347,6 +347,26 @@ img { max-width: 100%; display: block; }
   padding-bottom: 0.4em; border-bottom: 1px solid var(--border);
 }
 
+.chapter-nav {
+  display: flex; flex-wrap: wrap; gap: 8px;
+  margin: 24px 0 4px;
+}
+.chapter-btn {
+  padding: 6px 14px; border-radius: 20px; border: 1px solid var(--border);
+  background: var(--bg-secondary); color: var(--text-secondary);
+  cursor: pointer; font-size: 0.85rem; font-weight: 600;
+  transition: all 0.2s ease;
+}
+.chapter-btn:hover { border-color: var(--primary); color: var(--primary); }
+.chapter-btn.active { background: var(--primary); color: #fff; border-color: var(--primary); }
+.chapter-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+.chapter-btn:disabled:hover { border-color: var(--border); color: var(--text-secondary); }
+.chapter-pager {
+  display: flex; align-items: center; justify-content: center; gap: 16px;
+  margin-top: 28px;
+}
+.chapter-pos { font-size: 0.9rem; color: var(--text-secondary); }
+
 /* ========== Empty State ========== */
 .empty-hint {
   text-align: center; color: var(--text-muted);
