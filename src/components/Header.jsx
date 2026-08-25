@@ -1,11 +1,11 @@
 import { Link, useLocation } from 'react-router-dom'
-import { useLang, LANGUAGES } from '../LanguageContext'
+import { useLang } from '../LanguageContext'
 import { useTheme } from '../ThemeContext'
 import { t } from '../i18n'
 
 export default function Header() {
   const location = useLocation()
-  const { lang, setLang } = useLang()
+  const { lang } = useLang()
   const { dark, toggle } = useTheme()
 
   const links = [
@@ -34,15 +34,6 @@ export default function Header() {
           <button className="theme-toggle" onClick={toggle} aria-label="Toggle dark mode">
             {dark ? '☀️' : '🌙'}
           </button>
-          <select
-            className="lang-select"
-            value={lang}
-            onChange={e => setLang(e.target.value)}
-          >
-            {LANGUAGES.map(l => (
-              <option key={l.code} value={l.code}>{l.label}</option>
-            ))}
-          </select>
         </div>
       </div>
     </header>
