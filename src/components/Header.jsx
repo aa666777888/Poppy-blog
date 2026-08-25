@@ -29,6 +29,8 @@ export default function Header() {
               {link.label}
             </Link>
           ))}
+        </nav>
+        <div className="header-controls">
           <button className="theme-toggle" onClick={toggle} aria-label="Toggle dark mode">
             {dark ? '☀️' : '🌙'}
           </button>
@@ -41,7 +43,7 @@ export default function Header() {
               <option key={l.code} value={l.code}>{l.label}</option>
             ))}
           </select>
-        </nav>
+        </div>
       </div>
     </header>
   )
