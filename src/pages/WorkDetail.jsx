@@ -57,7 +57,11 @@ export default function WorkDetail() {
           <span className={`work-status status-${work.status === '已完结' ? 'done' : 'ongoing'}`}>
             {work.status}
           </span>
-          <p className="work-detail-desc">{work.description}</p>
+          <div className="work-detail-desc">
+            {work.description.split('\n\n').map((p, i) => (
+              <p key={i}>{p}</p>
+            ))}
+          </div>
           <span className="work-detail-date">{work.date}</span>
         </div>
       </div>
