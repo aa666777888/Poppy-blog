@@ -341,6 +341,12 @@ img { max-width: 100%; display: block; }
 
 .work-detail-content p { text-indent: 2em; margin-bottom: 0; }
 
+.work-detail-content .work-chapter-title {
+  font-size: 1.25rem; font-weight: 800; text-indent: 0;
+  color: var(--text); margin: 1.6em 0 0.8em;
+  padding-bottom: 0.4em; border-bottom: 1px solid var(--border);
+}
+
 /* ========== Empty State ========== */
 .empty-hint {
   text-align: center; color: var(--text-muted);
