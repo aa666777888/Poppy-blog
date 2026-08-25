@@ -230,281 +230,283 @@ Chapter 2: The Signature Is Just a Heart
 
 That night was not easy.
 
-Or rather — ever since that day in the corridor when he caught a glimpse of the bruises on Draco, no night had been easy.
+Or rather, ever since that day in the corridor when he caught a glimpse of the bruises on Draco's body, no night had been easy.
 
-Harry lay on his back in his four-poster bed, the curtains half-drawn. Ron's steady snoring came from somewhere nearby. He stared at the beams in the darkness above, his thoughts tangled like a mess of unravelled wool.
+Harry lay on his back in the four-poster bed, the hangings half-drawn, with Ron's even snores drifting over from the distance.
 
-He should be happy, logically.
+He stared at the faintly visible beams in the darkness above the bed, his thoughts tangled like a knot he couldn't untie.
 
-His nemesis — the one who'd been mocking him, provoking him, dragging out the word "Chosen One" like an insult since they were eleven — was clearly having a hard time. Wasn't that something to laugh at?
+Logically, he should be happy.
 
-But those bruises kept appearing every time he closed his eyes.
+His nemesis—the one who had endlessly taunted him, provoked him, and drawled "Potter" with that lingering sneer since he was eleven—had been suffering all along. Wasn't that something to gloat over?
 
-Purple-black. Fresh. Hidden under sleeves and collars.
+But those bruises kept surfacing whenever he closed his eyes.
 
-They reminded him of the marks he used to see in the mirror as a child. The ones he didn't dare uncover.
+Purple-blue, fresh, hidden beneath sleeves and collars.
 
-And the wounds looked bad, but Draco hadn't even gone to the hospital wing.
+They reminded him of the marks he used to see in the mirror as a child, the ones he didn't dare uncover when he lifted his clothes.
 
-Couldn't go? Or didn't dare?
+And besides... the injuries didn't look minor, yet he hadn't even gone to the hospital wing.
 
-Harry suddenly thought of another possibility: if he went to the hospital wing, Madam Pomfrey would see. She'd ask questions. She'd log it. And then the news might reach other professors. Might reach the Slytherin common room. Might reach whoever he was trying to hide it from.
+Was it because he couldn't go, or because he didn't dare?
 
-So he just had to tough it out. Pretend nothing was wrong.
+Harry suddenly thought of another possibility: if he went to the hospital wing, Madam Pomfrey would see it, would ask questions, would record it—and then those words might reach other professors, might spread to the Slytherin common room, might get back to someone he was trying to hide it from.
 
-Harry could picture it: Draco, using that lazy, drawling voice of his, brushing off questions with practised ease —
+So he had no choice but to tough it out, to pretend nothing was wrong.
 
-"It's nothing. Fell."
+The thought of Draco having to use that familiar, lazy drawl to casually deflect others' questions—
+
+"Nothing. Fell."
 
 "Quidditch practice."
 
-"Mind your own business."
+"None of your business."
 
-It should have been infuriating.
+It should have been a loathsome expression.
 
-But Harry found himself smiling in the dark.
+But Harry suddenly found himself smiling.
 
-The smile faded quickly. Bitter? Something else?
+In the darkness, that smile came and went in an instant, whether bitter or something else, he couldn't tell.
 
-What was wrong with him?
+What's wrong with me?
 
-He asked himself. The Chosen One's pity? Or something else?
+He asked himself.
 
-But —
+Was it the Saviour's pity? Or something else?
 
-The thought surfaced again, refusing to sink back down.
+But—
 
-He's so pitiful.
+That thought kept rising again, impossible to suppress.
 
-Keeping up his family's image, he couldn't tell anyone about those injuries.
+He really is pitiful.
 
-It must hurt so much.
+To preserve his family's dignity, he couldn't tell anyone about those injuries.
 
-Harry sat up, pushed the curtains aside, and stepped barefoot onto the cold stone floor. He walked to the window, pushed it open. Night air rushed in, carrying the damp scent of the Forbidden Forest and the coolness of the lake.
+It must have been so painful?
 
-He looked up at the stars. They twinkled silently — the same stars Draco could see from the Slytherin dungeons.
+Harry sat up in bed, pushed aside the hangings, and set his bare feet on the cold stone floor. He walked to the window, pushed it open, and the night wind rushed in, carrying the damp scent of the Forbidden Forest and the coolness of the lake beyond.
 
-But the bruises floated back into his vision.
+He looked up at the stars. They twinkled quietly overhead—the same stars Draco could see from the Slytherin dungeons.
 
-He didn't know what he could do. He wasn't even sure Draco would accept it. They were enemies — had been since they were eleven. Draco called him "Chosen One," he'd fire back "ferret" — it was practically their script.
+But those bruises floated back into his vision again.
 
-But.
+He didn't know what he could do. He wasn't even sure Draco would accept it. They were rivals, had despised each other since they were eleven. Draco called him "the Saviour," and he shot back "ferret"—it had become their routine.
 
-Those injuries were real. That forced composure was real, too.
+But still.
 
-Harry looked down at the dark edge of the Forbidden Forest. The wind ruffled his hair.
+Those injuries were real. That forced composure, that pretence of being fine—that was real too.
 
-He didn't know what he could do. Didn't know how to bring it up. Didn't even know if he had the right.
+Harry dropped his gaze to the dark edge of the Forbidden Forest outside the window. The night wind ruffled his hair.
 
-But he wanted to help.
+He didn't know what he could do, didn't know how to broach it, didn't even know if he had the right to.
 
-The thought landed like a pebble in still water, and the ripples kept spreading.
+But he wanted to help him.
 
----
+That thought was like a pebble dropped into still water—ripples spreading outward in widening circles, impossible to take back.
 
-The next morning, the Gryffindor table was as noisy as usual.
+The next morning, the Gryffindor table was as lively as ever.
 
-The smell of roasted sausages, fried eggs, and pumpkin juice rose from the golden plates. Owls swooped under the enchanted ceiling, dropping the occasional Howler or parcel. Hermione was spreading jam on her toast. Ron had already shoved a third sausage into his mouth.
+The smells of roasted sausages, fried eggs, and pumpkin juice rose from the golden platters. Owls swooped beneath the enchanted ceiling, occasionally dropping Howlers or parcels. Hermione was spreading jam on her toast, while Ron had already stuffed a third sausage into his mouth.
 
 "Harry?"
 
-Hermione looked up, pausing mid-spread.
+Hermione looked up, her hand pausing mid-motion.
 
-Harry, sitting opposite, was lifting something to his mouth — mechanically, his eyes blank, clearly still lost in last night's thoughts.
+Harry, sitting across from her, was raising something toward his mouth—his movements mechanical, his gaze unfocused, clearly still lost in the thoughts from the night before.
 
 "Harry!" Her voice rose.
 
 No response.
 
-Ron followed her gaze, still chewing half a sausage. Then his eyes went wide, and he nearly choked.
+Ron followed her gaze, still chewing half a sausage. The next second, his eyes went wide, and he nearly choked.
 
-"Merlin! That's a cup! Stop!"
+"Merlin's beard! That's a cup! Stop—stop right now!"
 
 He lunged forward and grabbed Harry's wrist.
 
-Harry blinked and looked down. He was holding an empty goblet to his lips. The rim was already touching his mouth.
+Harry blinked, snapped back to the present, and looked down—he was holding an empty goblet to his lips, its rim already touching his mouth.
 
-He paused, then slowly lowered it.
+He paused for a moment, then slowly lowered the cup.
 
-Hermione and Ron both stared at him with complicated expressions.
+Hermione and Ron both stared at him, their expressions complicated.
 
-"Did you… not sleep well?" Hermione ventured.
+"Are you..." Hermione chose her words carefully, "did you not sleep well last night?"
 
-Harry didn't answer. He just looked at the goblet for a moment, then set it quietly back on the table.
+Harry didn't answer. He just gazed at the goblet for a moment, then set it gently back on the table.
 
-A burst of low laughter came from the Slytherin table. He looked up instinctively — and saw Draco Malfoy quickly look away, returning to his fried eggs with studied nonchalance.
+A low ripple of laughter came from the Slytherin table in the distance. He looked up instinctively—and caught Draco Malfoy withdrawing his gaze, casually slicing into the fried egg on his plate.
 
-Harry's gaze drifted upward.
+Harry shifted his gaze slightly upward.
 
-The hand holding Draco's knife was paused over his plate. His robe sleeve slipped slightly as he moved — revealing a flash of wrist. The bruises there were fainter than a few days ago, their edges tinged with pale yellow-green. Not as shocking as before.
+Draco's hand, holding his knife and fork, paused over the plate, and as his robe sleeve slipped a little—it revealed a section of wrist. The bruises there were fainter than they had been a few days ago, the edges already tinged with a pale yellow-green, no longer as stark as they had first appeared.
 
 But still visible.
 
-Harry stared at that spot, and suddenly remembered being a child in front of the mirror, tugging his own sleeves down again and again.
+Harry stared at that spot, and suddenly remembered standing before the mirror as a child, tugging his own sleeves down again and again.
 
-As if sensing something, Draco paused. Then, without looking up, he casually pulled his sleeve down and pressed it flat with his fingers — a natural gesture, as if he were just straightening his robes.
+As if sensing something, Draco's movements stilled. A second later, he casually pulled his sleeve down, pressing it flat with his fingers—the gesture natural, as if he were merely adjusting his robes.
 
-Now the wrist was covered. Nothing to see.
+But now that stretch of wrist was fully covered, impossible to see.
 
-Draco went back to cutting his eggs without raising his head.
+Draco continued slicing his fried egg, not lifting his head once.
 
-Harry pulled his gaze away and resumed picking at his food. He bit into a sausage, but his eyes were fixed somewhere in the distance.
+Harry pulled his gaze back from the Slytherin table and focused on his own plate. He bit into a roasted sausage, but his eyes remained fixed on some empty point in the air.
 
-He was thinking.
+He was making a plan.
 
-He needed some dittany. He'd say it was for a Quidditch scratch — needed to keep some on hand. Madam Pomfrey would grumble about students using potions on their own, but she wouldn't ask too many questions.
+He would ask for some dittany—say he'd scraped himself during Quidditch practice and needed to keep some on hand. Madam Pomfrey would grumble about students treating themselves, but she probably wouldn't press.
 
-Dittany was good for bruises. He remembered.
+Dittany worked well for bruises, he remembered.
 
-He finished breakfast quickly, and while Hermione and Ron were debating their History of Magic essay, he slipped away from the Gryffindor table.
+He finished his breakfast quickly, and while Hermione and Ron were still debating their History of Magic essays, he got up from the Gryffindor table and left.
 
-The hospital wing was on the third floor. Madam Pomfrey did grumble — "Be careful during training, don't be reckless" — but she gave him a small jar of dittany salve anyway. He tucked it into his inner robe pocket, his heart beating a little fast.
+The hospital wing was on the third floor. Madam Pomfrey did indeed lecture him about being careful during practice and not pushing himself too hard, but she still gave him a small pot of dittany salve. He tucked it into his robe's inner pocket, his heart beating a little faster.
 
-Now came the problem: how to get it to him?
+Now the question was—how to give it to him?
 
-Draco Malfoy. The person he'd been at odds with since he was eleven. He couldn't just walk up and say, "Hey, I saw your injuries, here's some medicine," could he?
+Draco Malfoy. The one who'd been at odds with him for four years. He couldn't exactly stroll over and say, "Hey, I saw your injuries, here's some medicine," could he?
 
-Younger students ran past in the corridors. Portraits murmured to each other. Harry walked slowly back along familiar routes, turning possibilities over in his head —
+Occasionally, younger students scurried past in the corridors, and the portraits murmured among themselves. Harry kept his head down, walking the familiar route back, mentally running through possibilities—
 
-Shove it in his bag? Too obvious. He'd notice.
+Slipping it into his bag? Too stupid. He'd find it.
 
-Send it by owl? He didn't know if Draco's eagle owl (whatever its name was) would recognise him.
+Sending it by owl? He didn't know if Draco's eagle owl (whatever it was called) would recognise him.
 
-Hand it to him directly… and then what? Get told, "What's wrong with you, Chosen One?"
+Handing it to him directly... and then what? Wait to be told, "What the hell, Potter?"
 
 "Did you hear?"
 
-A voice suddenly cut through his thoughts.
+A voice suddenly cut into his ears.
 
-Harry looked up. He was near the Fat Lady's portrait. Ron had appeared out of nowhere, looking conspiratorial, half a piece of treacle tart still in his mouth.
+Harry looked up and realised he was near the Fat Lady's portrait. Ron had appeared out of nowhere, face full of mystery, half a sweet still in his mouth.
 
-He lowered his voice, but the excitement of having big news was impossible to hide.
+He lowered his voice, but the excitement of having big news couldn't be hidden.
 
-"Malfoy made the Slytherin team!"
+"Malfoy's joined the Slytherin team!"
 
-People gathered round immediately — Hermione just coming down the stairs, Seamus and Dean poking their heads out of the common room. Ron swallowed quickly, seeing he had their attention, and started talking at top speed.
+People gathered around immediately—Hermione just coming down the stairs, Seamus and Dean poking their heads out of the common room. Seeing he'd captured the attention, Ron quickly swallowed his sweet and started talking as fast as a spell.
 
-"Heard his father donated —" he paused for effect — "seven brand new Nimbus 2001 brooms!"
+"I heard his father donated—" he paused for effect, "seven brand-new Nimbus 2001 broomsticks!"
 
-He enunciated "seven" and "brand new" very clearly, his face saying see? told you.
+He emphasised "seven" and "brand-new," his face saying, "See? I told you so."
 
-"Colin Creevey told me. He was taking photos all over the castle and saw the Slytherins testing them." Ron curled his lip. "Seven. All new. They're insufferable now."
+"Colin Creevey told me just now—he's been taking pictures all over the castle and saw the Slytherins testing them out." Ron curled his lip. "Seven, all new. They'll be insufferable now."
 
-Seamus whistled. Dean shook his head and muttered, "Must be nice."
+Seamus whistled. Dean shook his head and muttered, "Money talks."
 
-Draco made the team? Then — in the changing rooms — would anyone else see the bruises?
+Draco's on the team? Then in the changing room, would others see his injuries?
 
-Wait — the changing rooms! They shared a changing room with Slytherin. He could say he forgot something there, and slip the medicine into Draco's locker…
+Wait—the changing room! They shared one with Slytherin. He could use the excuse that he'd left something there, sneak the salve into Draco's locker...
 
 But what if Draco got suspicious?
 
-Draco made the team?
+Draco's on the team?
 
-Harry's fingers unconsciously rubbed the small jar in his pocket.
+Harry's fingers unconsciously rubbed the little pot in his robe pocket.
 
-In the changing rooms — changing clothes, showering — would someone else see those injuries?
+In the changing room—changing, showering—would anyone else see those bruises?
 
-The thought hit him like lightning. He gripped the jar tighter, his knuckles going white.
+The thought hit him like a bolt of lightning. His hand clenched around the pot, knuckles whitening.
 
 Wait.
 
-The changing rooms.
+The changing room.
 
-They shared a changing room with Slytherin. That old wooden hut by the Quidditch pitch, split into two sides separated by nothing but a thin wooden wall. He knew it well — after every practice, sweaty and tired, pushing through the door and hearing the Slytherins laughing next door.
+They shared a changing room with Slytherin. That old wooden shack by the Quidditch pitch, split into two sections separated by a thin plank wall. He knew it all too well—every training session, sweaty and exhausted, pushing through the door and hearing the chatter from the other side.
 
-If…
+What if...
 
-If he said he forgot something there, and when no one was looking, slipped the medicine into Draco's locker…
+What if he pretended he'd left something there, and while no one was looking, slipped the salve into Draco's locker...
 
-Draco wouldn't need to know who sent it. Just that someone saw. Someone cared.
+He didn't need to know who'd left it. He just needed to know someone had seen, someone cared.
 
-But —
+But—
 
-What if Draco got suspicious? What if he figured it out, and then —
+What if Draco got suspicious? What if he figured out who it was, and then—
 
-"Ptui! Ptui!"
+"Pfft—blegh!"
 
-A sudden noise pulled him back to the present.
+An abrupt noise pulled him from his thoughts.
 
-In the common room, a third-year boy was frowning, pulling something out of his mouth. He was holding a crumpled pink candy wrapper, the kind with cute designs printed on it.
+In the common room, a third-year boy was frowning and spitting something out of his mouth. In his hand was a crinkled pink snack bag with cute candy-like packaging, the wrapper crumpled.
 
-"That was worms?!"
+"How are there earthworms in here?!"
 
-Several other students burst out laughing. They crowded around to look, talking all at once.
+A few nearby students burst out laughing. Some crowded around to see what was happening, talking over each other.
 
-"Is that some new Honeydukes thing?"
+"Is this some new Honeydukes thing?"
 
-"Who put that there?"
+"Whoever did that is brutal, who put that there?"
 
-The poor boy grimaced, still with suspicious dirt-like smears at the corner of his mouth.
+The unfortunate boy pulled a face, the corners of his mouth still smeared with suspicious dirt.
 
-"I don't know!" He waved the crumpled pink wrapper, looking wronged. "There was a note with it — pink paper — I thought —"
+"I don't know!" He held up the wrinkled pink wrapper, looking wronged. "There was a letter attached—it was pink, so I thought—"
 
-He paused, going slightly red.
+He paused, face reddening a little.
 
-"I thought some girl who liked me sent it…"
+"I thought it was from some girl who liked me..."
 
-More laughter. Someone slapped their thigh. Someone else nearly rolled off the sofa.
+More laughter erupted. Some slapped their thighs, others nearly rolled off the sofas.
 
-"And you ate it?"
+"And then you ate it?"
 
-"I ate it."
+"Yeah."
 
-"The whole thing?"
+"All of it?"
 
-"…One bite and I knew something was wrong."
+"...I took one bite and knew something was off."
 
-The boy turned the wrapper over. A pink letter fell out, with his name written in painfully neat, almost childish handwriting, and a lopsided heart next to it. His complaints were drowned out by the noise of the common room, but Harry's mind had already wandered off.
+The boy turned the wrapper over, and a pink letter fell out. On the envelope, in handwriting so neat it looked almost childish, was his name, with a lopsided heart drawn beside it. His complaints were swallowed by the noise of the common room, but Harry's mind had already wandered elsewhere.
 
-Pink wrapping. An attached note. The boy thought a girl who liked him sent it.
+Pink packaging. An attached letter. Thinking it was from a girl who liked him.
 
-Harry looked down, tapping the small jar in his pocket.
+He dropped his gaze, tapping the small pot in his pocket with his fingers.
 
-Draco Malfoy…
+Draco Malfoy...
 
-Draco was popular in Slytherin — blond hair, grey eyes, the pureblood surname, his father a school governor, his mother Narcissa Malfoy who always wore elegant robes. And now he was on the team. He'd only be more in the spotlight.
+He was popular in Slytherin—blond hair, grey eyes, pure-blood lineage, a father on the Board of Governors, a mother who was the ever-elegant Narcissa Malfoy. And now on the team, his profile only higher.
 
-Surely some girl would send him things?
+There must be girls sending him things, right?
 
-Love letters. Chocolate. A scarf that somehow ended up in his bag. Gifts slipped into his locker when no one was watching —
+Love letters, chocolate, scarves mysteriously appearing in his bag, presents slipped into his locker when no one was looking—
 
 Locker.
 
 Harry's heart skipped a beat.
 
-What if…
+What if...
 
 What if he pretended to be a girl?
 
-A girl who noticed those injuries on him, felt bad, but didn't dare approach him directly. A girl who quietly went to Madam Pomfrey for the potion and sneaked it into his locker.
+A girl who'd noticed his injuries, who couldn't bear it but didn't dare approach him directly. Who'd quietly gone to Madam Pomfrey for the salve and slipped it into his locker.
 
-That way, Draco wouldn't know who it was. He'd just think it was some girl with a crush — a Slytherin, or a Ravenclaw, or a Hufflepuff — certainly not him.
+That way Draco wouldn't know who it was. He'd just think it was some Slytherin girl with a crush—or Ravenclaw, Hufflepuff—anyone but him.
 
-Certainly not Harry Potter.
+Anyone but Harry Potter.
 
-Certainly not the person who'd been his rival for four years.
+Anyone but his nemesis of four years.
 
-The thought flickered in his chest like a small flame, bright then dim. He knew it was ridiculous. He knew if Hermione found out, she'd say, "Have you lost your mind?" He knew if Ron found out, he'd probably choke on whatever he was eating.
+This thought flickered in his mind like a small flame, unsteady and uncertain. He knew it was absurd. He knew if Hermione found out, she'd say, "Have you lost your mind?" He knew if Ron found out, he might choke on the spot.
 
-But —
+But still—
 
-He thought of those bruises again. Those fresh, purple-black marks hidden under sleeves and collars.
+He thought of those bruises again. Those fresh, purple-black bruises hidden under sleeves and collars.
 
-He thought of Draco in the corridor that day, the way he'd whipped his head around. His deliberately calm voice. The straight-backed, retreating figure.
+He thought of Draco whirling away in the corridor that day. That forced composure in his voice. That straightened back as he strode off.
 
-If he pretended to be a girl…
+If he pretended to be a girl...
 
-At least, at least those wounds would get treated. At least someone would care.
+At least, at least those injuries would be treated. At least someone would care.
 
-Harry gripped the jar tighter and stood up from the sofa. He needed to go to the library — find a beginner's Potions book, copy that kind of childish handwriting, write a short letter.
+Harry gripped the pot tightly and stood up from the sofa. He needed to go to the library—needed an introductory book on potions, needed to mimic an inexperienced hand, to write a short note.
 
 He didn't need to say much.
 
-Just: I saw the marks on you. This is dittany. It helps with bruises. Hope you feel better.
+Just: I saw your injuries. This is dittany, it helps with bruises. I hope you get better.
 
 No signature.
 
-Just a heart.
+Just a heart at the bottom.
 
 Chapter 3: Are You Mental, Harry?
 
