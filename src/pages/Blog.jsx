@@ -14,7 +14,7 @@ export default function Blog() {
         <p>{t('blog.desc', lang)}</p>
       </div>
 
-      {sorted.length > 0 ? (
+      {sorted.length > 0 && (
         <div className="post-list-full">
           {sorted.map(post => (
             <Link to={`/blog/${post.id}`} key={post.id} className="post-card-full">
@@ -24,8 +24,6 @@ export default function Blog() {
             </Link>
           ))}
         </div>
-      ) : (
-        <p className="empty-hint">{t('blog.noPosts', lang)}</p>
       )}
     </div>
   )
