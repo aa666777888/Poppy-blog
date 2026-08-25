@@ -2,30 +2,30 @@
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
 :root {
-  --bg: #ffffff;
-  --bg-secondary: #f8fafc;
-  --text: #1e293b;
-  --text-secondary: #64748b;
-  --text-muted: #94a3b8;
-  --primary: #6366f1;
-  --primary-hover: #4f46e5;
-  --primary-light: #eef2ff;
-  --border: #e2e8f0;
+  --bg: #faf4e4;
+  --bg-secondary: #f4ead5;
+  --text: #3b3329;
+  --text-secondary: #77685a;
+  --text-muted: #a89885;
+  --primary: #c9383f;
+  --primary-hover: #a52a31;
+  --primary-light: #fbeae7;
+  --border: #ece1c9;
   --radius: 12px;
   --max-width: 800px;
   --transition: 0.25s ease;
 }
 
 .dark {
-  --bg: #0f172a;
-  --bg-secondary: #1e293b;
-  --text: #e2e8f0;
-  --text-secondary: #94a3b8;
-  --text-muted: #64748b;
-  --primary: #818cf8;
-  --primary-hover: #a5b4fc;
-  --primary-light: #1e1b4b;
-  --border: #334155;
+  --bg: #1a1412;
+  --bg-secondary: #262019;
+  --text: #ede3d6;
+  --text-secondary: #b3a695;
+  --text-muted: #8a7d6f;
+  --primary: #e0645c;
+  --primary-hover: #eb7b76;
+  --primary-light: #3a2522;
+  --border: #3a2e27;
 }
 
 html { font-size: 16px; scroll-behavior: smooth; }
@@ -49,13 +49,13 @@ img { max-width: 100%; display: block; }
 /* ========== Header ========== */
 .header {
   position: fixed; top: 0; left: 0; right: 0; z-index: 100;
-  background: rgba(255, 255, 255, 0.85);
+  background: rgba(250, 244, 228, 0.85);
   backdrop-filter: blur(12px);
   border-bottom: 1px solid var(--border);
 }
 
 .dark .header {
-  background: rgba(15, 23, 42, 0.85);
+  background: rgba(26, 20, 18, 0.85);
 }
 
 .header-inner {
@@ -140,7 +140,7 @@ img { max-width: 100%; display: block; }
   width: 120px; height: 120px; margin: 0 auto 24px;
   border-radius: 50%; overflow: hidden;
   border: 3px solid var(--primary-light);
-  box-shadow: 0 4px 20px rgba(99, 102, 241, 0.15);
+  box-shadow: 0 4px 20px rgba(201, 56, 63, 0.18);
 }
 
 .hero-avatar img { width: 100%; height: 100%; object-fit: cover; }
@@ -407,4 +407,13 @@ img { max-width: 100%; display: block; }
   .header-controls { margin-left: auto; }
   .main-content { padding-top: 92px; }
   .work-detail-desc { text-align: left; }
+}
+
+/* ========== Style Theme: warm cream + poppy red + italic ========== */
+.logo, .hero-name, .hero-tagline, .hero-bio,
+.section-header h2, .page-title-block h1,
+.about-header h1, .about-tagline,
+.work-card-title, .work-detail-title,
+.post-card-title, .post-card-full-title {
+  font-style: italic;
 }
